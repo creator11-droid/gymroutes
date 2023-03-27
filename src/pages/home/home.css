@@ -276,6 +276,9 @@ footer{
    .values__wrapper{
     gap:3rem 2rem;
    }
+   .faqs{
+    margin-top: 9rem;
+   }
    .faqs__wrapper{
     grid-template-columns: 1fr;
    }
@@ -336,5 +339,5 @@ footer{
     }
      .footer__container article p{
         align-items: center;
-    }
+     }
 }
